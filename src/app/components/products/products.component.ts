@@ -8,7 +8,7 @@ import { Product } from '../../models/products.model';
 })
 export class ProductsComponent {
   products: Product[] = [
-    {
+    /*{
       id: '5745747597',
       name: 'Tshirt',
       type: 'Garment',
@@ -22,6 +22,7 @@ export class ProductsComponent {
       color: 'Red',
       price: 8.99
     } 
+    */
   ];
 
 }
